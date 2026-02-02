@@ -1,17 +1,18 @@
 # Olá, eu sou o José Emanoel! 👋
 
-**Full Stack Developer | Especialista .NET | Fintech & Payments**
+**Full Stack Developer | Especialista .NET | Bacharelando em Ciência da Computação @ UFC**
 
-Trabalho transformando café em código de alta performance. Com mais de 4 anos de experiência sólida, tenho no currículo a responsabilidade de ter atuado em sistemas críticos de pagamento, como o **PIX** e transferências internacionais, lidando com milhões de transações diárias.
+Trabalho transformando café em código de alta performance. Com mais de 4 anos de experiência sólida, atuo em sistemas críticos de pagamento (PIX e transferências internacionais), lidando com milhões de transações diárias e alta volumetria.
 
 ---
 
 ### 🚀 O que eu trago na bagagem
 
 - 🏦 **Fintech Experience:** Evolução de estagiário a pleno na FitBank 450, uma das maiores infraestruturas bancárias do Brasil.
-- 🛠️ **Modernização:** Liderança na migração de sistemas legados (.NET 4.5) para o moderno **.NET 8**.
+- 🛠️ **Modernização:** Liderança na migração de sistemas legados (.NET Framework 4.5) para o moderno **.NET 8.0**.
 - 🏗️ **Arquitetura & Qualidade:** Domínio de SOLID, Clean Architecture, CQRS e Design Patterns.
 - 📊 **Performance:** Expertise em SQL Server (Stored Procedures complexas), RabbitMQ e MongoDB.
+- 🎓 **Educação:** Cursando Ciência da Computação na **Universidade Federal do Ceará (UFC)**.
 
 ---
 
@@ -38,6 +39,8 @@ Trabalho transformando café em código de alta performance. Com mais de 4 anos 
 
 ### 📫 Vamos nos conectar?
 
+📍 Crateús - CE
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-emanoel-367577188)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josemanoel.am@gmail.com)
 
@@ -45,4 +48,5 @@ Trabalho transformando café em código de alta performance. Com mais de 4 anos 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanoelmad&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanoelmad&layout=compact&langs_count=7&theme=dark"/>
+</div>
